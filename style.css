@@ -187,6 +187,10 @@ pre {
 }
 
 #flexbox {
+  #flex-direction-column .flex-container {
+    flex-direction: column;
+  }
+
   #justify-content {
     #justify-content-flex-end .flex-container {
       justify-content: flex-end;
